@@ -85,7 +85,7 @@ ul {
     padding-right: 45px;
     margin: 0 auto;
 }
-@media screen and (max-width:400px){
+@media screen and (max-width:450px){
     .container{
         max-width: 100%;
         padding-left: 8%;
@@ -123,7 +123,7 @@ ul {
 .site-header__second-list  .site-header__item:not(:last-child) {
     margin-right: 33px;
 }
-@media screen and (max-width:400px) {
+@media screen and (max-width:450px) {
 
     .site-header__first-list  .site-header__item:not(:last-child),.site-header__second-list  .site-header__item:not(:last-child){
         margin-right: 0;
@@ -175,7 +175,7 @@ ul {
 .site-header__search-btn-mobile {
     display: none;
 }
-@media screen and (max-width:400px) {
+@media screen and (max-width:450px) {
     .mobile-menu {
         display: flex;
     }
@@ -267,7 +267,7 @@ ul {
 .site-header__middle-btn:last-child {
     background-image: url(../images/icon-basket.png);
 }
-@media screen and (max-width:400px){
+@media screen and (max-width:450px){
     .site-header__search-input{
         padding-left: 8px;
         width: 170px;
@@ -378,7 +378,7 @@ ul {
     display: none;
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:450px) {
     .site-header__list {
         position: relative;
         justify-content: space-between;
@@ -472,7 +472,7 @@ ul {
     text-decoration: none;
     transition: all 0.3s ease;
 }
-@media screen and (max-width:400px) {
+@media screen and (max-width:450px) {
     .site-footer__list {
         flex-direction: column;
         justify-content: center;
